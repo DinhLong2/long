@@ -1,2 +1,5 @@
-Đay la Linh
-Bay gio linh tao xung dot
+function mangtenLinh{
+//line 1
+//line 2
+//line 3
+}
