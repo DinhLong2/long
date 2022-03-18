@@ -1,0 +1,4 @@
+fuction {
+lin 1
+line 2
+}
